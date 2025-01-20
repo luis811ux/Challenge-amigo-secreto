@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Amigo Secreto </h1>
-![titulo](https://github.com/user-attachments/assets/8036f1dd-215f-4fe9-822a-a9a624d234d7)
+
 
 ## Estado del Proyecto
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
