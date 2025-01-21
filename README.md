@@ -1,9 +1,10 @@
 <h1 align="center">🎉 <strong>ADIVINA EL NOMBRE SECRETO</strong> 🎉</h1>
 
-
 <p align="center">
-![Mario svg , mario png](https://github.com/user-attachments/assets/d7463dc7-e6c9-45d3-a741-c12973235f03)   
+  <img src="https://github.com/user-attachments/assets/7df66c20-461b-4a8c-862f-fdd52c9d9473" alt="Super Mario Bros PNG Descarga gratis">
 </p>
+
+
 
 
 
