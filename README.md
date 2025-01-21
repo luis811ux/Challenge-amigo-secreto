@@ -1,7 +1,3 @@
-
-
-<h1 align="center"> Amigo Secreto </h1>
-
 ![ADIVINA_EL_NOMBRE_SECRETO_Title](https://github.com/user-attachments/assets/25c9ec35-49ed-4c8a-877a-10fa1511fef4)
 
 ## Estado del Proyecto
