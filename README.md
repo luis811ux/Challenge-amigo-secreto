@@ -1,4 +1,12 @@
-![ADIVINA_EL_NOMBRE_SECRETO_Title](https://github.com/user-attachments/assets/25c9ec35-49ed-4c8a-877a-10fa1511fef4)
+<h1 align="center">🎉 <strong>ADIVINA EL NOMBRE SECRETO</strong> 🎉</h1>
+
+
+<p align="center">
+![Mario svg , mario png](https://github.com/user-attachments/assets/d7463dc7-e6c9-45d3-a741-c12973235f03)   
+</p>
+
+
+
 
 ## Estado del Proyecto
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
